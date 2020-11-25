@@ -41,7 +41,7 @@ plainwhite:
   name: Stefan Bocken
   tagline: IAM & Sports Enthusiast, Budgeteer
   date_format: "%b %-d, %Y"
-  portfolio_image: "assets/portfolio.jpg"
+  #portfolio_image: "assets/portfolio.jpg"
   show_excerpts: true
   # excerpt_separator: <!--more-->
   search: true

@@ -33,6 +33,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 theme: plainwhite
 author_name: Stefan Bocken
 
+permatype: micro
+link: /:year/:month/:day/:title/
+
 plugins:
   - jekyll-feed
 

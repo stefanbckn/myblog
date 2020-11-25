@@ -1,3 +1,3 @@
 ---
-home_text : BCKN Home
+layout: home
 ---

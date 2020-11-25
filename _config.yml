@@ -28,13 +28,13 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: stefanbckn
 #github_username:  stefanbckn
+show_excerpts: true
+permatype: micro
+link: /:year/:month/:day/:title/
 
 # Build settings
 theme: plainwhite
 author_name: Stefan Bocken
-
-permatype: micro
-link: /:year/:month/:day/:title/
 
 plugins:
   - jekyll-feed
@@ -45,7 +45,6 @@ plainwhite:
   tagline: IAM & Sports Enthusiast, Budgeteer
   date_format: "%b %-d, %Y"
   portfolio_image: "assets/portfolio.jpg"
-  show_excerpts: true
   search: true
   navigation:
       - title: Home
@@ -56,6 +55,7 @@ plainwhite:
     twitter: stefanbckn
     github: stefanbckn
     linkedIn: in/stefanbocken
+    instagram: stefanbckn
 
 # Exclude from processing.
 # The following items will not be processed, by default.

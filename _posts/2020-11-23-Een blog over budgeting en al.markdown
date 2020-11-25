@@ -5,8 +5,6 @@ date:   2020-11-23 22:00:36 +0100
 categories: budget ynab
 excerpt_separator: <!--more-->
 ---
-# Een blog, over budgeting en al
-
 Vandaag start ik een blog. Vooral voor mezelf maar ook voor jullie. De nadruk zal vooral liggen op budgetteren en hoe we daar in onze familie mee om gaan. Verder kan er ook een occasionele sport en IT-gerelateerde post voorbij komen.
 
 <!--more-->

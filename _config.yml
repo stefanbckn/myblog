@@ -28,9 +28,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: stefanbckn
 #github_username:  stefanbckn
-show_excerpts: true
 permatype: micro
 link: /:year/:month/:day/:title/
+show_excerpts: true
+excerpt_separator: <!--more-->
+
 
 # Build settings
 theme: plainwhite

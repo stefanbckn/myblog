@@ -51,8 +51,11 @@ plainwhite:
   navigation:
       - title: Home
         url: "/"
+      - title: Budget
+        url: "/budget"
       - title: About
         url: "/about"
+
   social_links:
     twitter: stefanbckn
     github: stefanbckn

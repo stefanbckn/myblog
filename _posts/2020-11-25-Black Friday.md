@@ -5,10 +5,12 @@ date:   2020-11-25 18:30:36 +0100
 categories: budget
 tags: [budget, ynab, black friday, kbc]
 ---
-"Koopjes doen op *Black Friday* én de kosten spreiden", zo kwam de e-mail binnen van mijn bank.\
-Mijn haar ging **direct** recht staan. 
+"Koopjes doen op *Black Friday* én de kosten spreiden", zo kwam de e-mail binnen van mijn bank.
 
 <!--more-->
+
+Mijn haar ging **direct** recht staan. 
+
 
 Of je moet meedoen met de opgeklopte hype van *Black Friday* laat ik nog in het midden. Ik vermoed dat je zeker goede deals zal kunnen vinden, al zal je sowieso aangespoord worden tot een impulsieve, en hoogstwaarschijnlijk onnodige, aankoop.
 Waarom ging mijn haar rechtstaan? Het tweede deel van de titel: **kosten spreiden**. Dit doet vermoeden dat je zonder zorgen jouw uitgaven rustig kan spreiden én je budget *extra ruimte* kan geven.

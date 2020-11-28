@@ -14,7 +14,7 @@ Zelf was ik al een tijdje bezig met een eigen budget maar het heeft tot eind jul
 
 **We hebben geen geldproblemen, verdienen goed, dus waarom zouden we in godsnaam een budget starten. En is dit niet te beperkend?**
 
-Er waren voor mij twee grote redenen om te starten met ons budget. Ten eerste zocht ik een manier om erachter te komen waar ons geld naar toe ging en of dit écht nodig is. Ten tweede wou ik meer sparen voor de toekomst; studies voor Emiel, vakanties, pensioen...
+Er waren voor mij twee grote redenen om te starten met budgeteren. Ten eerste zocht ik een manier om erachter te komen waar ons geld naar toe ging en of dit écht nodig is. Ten tweede wou ik meer sparen voor de toekomst; studies voor Emiel, vakanties, pensioen...
 In mijn zoektocht naar een goede manier om dit aan te pakken kwam ik al snel terecht bij excel. Dit kon werken maar voelde toch vooral als *high maintenance*. Een nieuwe zoektocht bracht me tot bij YNAB en hun methode. Alles viel op zijn plaats en ons budget was vertrokken.
 
 #### Wat is nu YNAB?

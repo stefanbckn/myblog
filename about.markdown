@@ -9,7 +9,7 @@ Hier ga je onze avonturen kunnen volgen en zal er geregeld gepost worden over on
 
 Veel leesplezier.
 
-<form name="contact" method="POST" data-netlify="true">
+<!-- <form name="contact" method="POST" data-netlify="true">
   <p>
     <label>Naam: <input type="text" name="name" /></label>   
   </p>
@@ -22,7 +22,7 @@ Veel leesplezier.
   <p>
     <button type="submit">Send</button>
   </p>
-</form>
+</form> -->
 
 
 [Mailto]: mailto:info@bckn.be

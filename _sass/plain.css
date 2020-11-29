@@ -11,7 +11,7 @@ $leftWidth: 220px;
 *,
 *:before,
 *:after {
-  box-sizing: border-box;
+   box-sizing: border-box;
 }
 
 body {
@@ -148,7 +148,68 @@ main {
   }
 }
 
-.navigation {
+/* NAVIGATION */
+nav {
+  width: 80%;
+  margin: 0 auto;
+  background: #fff;
+  padding-top: 50px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+  /*box-shadow: 0px 5px 0px #dedede;*/
+}
+
+/* By Dominik Biedebach @domobch */
+nav ul {
+  list-style: none;
+  text-align: center;
+}
+nav ul li {
+  display: inline-block;
+}
+nav ul li a {
+  display: block;
+  padding: 15px;
+  text-decoration: none;
+  color: #aaa;
+  font-weight: 800;
+  text-transform: uppercase;
+  margin: 0 10px;
+}
+nav ul li a,
+nav ul li a:after,
+nav ul li a:before {
+  transition: all .5s;
+}
+nav ul li a:hover {
+  color: #555;
+}
+
+/* By Dominik Biedebach @domobch */
+
+
+/* stroke */
+nav.stroke ul li a {
+  position: relative;
+}
+nav.stroke ul li a:after {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 0%;
+  content: '.';
+  color: transparent;
+  background: #333;
+  height: 1px;
+}
+nav.stroke ul li a:hover:after {
+  width: 100%;
+}
+
+/*.navigation {
   width: 80%;
 
   ul {
@@ -176,7 +237,7 @@ main {
     }
   }
 }
-
+*/
 .post-wrapper {
   border-bottom: 1px solid #ececec;
   margin-bottom: 1rem;
@@ -229,7 +290,7 @@ main {
 .posts,
 .post-container {
   list-style-type: none;
-  margin: 45px 30px;
+  margin: 35px 30px;
   @media screen and (max-width: $smallMobileW) {
     margin-left: 20px;
     margin-right: 20px;

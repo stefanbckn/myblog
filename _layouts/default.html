@@ -121,7 +121,7 @@
         {%- endif -%}
       </ul>
       {%- endif -%}
-      {%- if site.plainwhite.navigation -%}
+      <!-- {%- if site.plainwhite.navigation -%}
       <nav class="navigation about-footer {{condensed_class}}">
         <ul>
           {% for link in site.plainwhite.navigation %}
@@ -146,10 +146,11 @@
       </div>
       {%- endif -%}
       {% endcapture %}
-      {{ footer }}
+      {{ footer }} -->
     </section>
     <section class="content">
-      <nav class="navigation about-footer {{condensed_class}}">
+      <section>
+      <nav class="stroke">
         <ul>
           {% for link in site.plainwhite.navigation %}
           <li>
@@ -159,12 +160,11 @@
         </ul>
       </nav>
     </section>
-    <section class="content">
       {{ content }}
     </section>
-    <footer class="{{condensed_class}}">
+    <!-- <footer class="{{condensed_class}}">
       {{ footer }}
-    </footer>
+    </footer> -->
   </main>
   {% if site.plainwhite.dark_mode %}
   <script type="text/javascript" src="{{ "/assets/js/darkmode.js" | relative_url }}"></script>

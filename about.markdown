@@ -4,15 +4,25 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hallo, Ik ben [Stefan][Mailto] en ik werk als een IAM architect bij Cegeka. Sinds een aantal jaren ben ik begonnen met een budget. Eerst alleen en sinds kort samen met mijn vrouw Kristl. We hebben een zoon, Emiel (5) en zijn getrouwd sinds 2011.
+Hier ga je onze avonturen kunnen volgen en zal er geregeld gepost worden over ons, budgeteren, sport en technologie.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Veel leesplezier.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+<form name="contact" method="POST" data-netlify="true">
+  <p>
+    <label>Naam: <input type="text" name="name" /></label>   
+  </p>
+  <p>
+    <label>E-mail: <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <label>Bericht: <textarea name="message"></textarea></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
 
 
-[jekyll-organization]: https://github.com/jekyll
+[Mailto]: info@bckn.be

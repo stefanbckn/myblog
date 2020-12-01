@@ -48,7 +48,7 @@ plainwhite:
   date_format: "%b %-d, %Y"
   portfolio_image: "assets/portfolio.jpg"
   search: true
-  analytics_id: "254653227"
+  analytics_id: "UA-26012015-7"
   navigation:
       - title: Home
         url: "/"

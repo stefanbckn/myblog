@@ -9,20 +9,5 @@ Hier ga je onze avonturen kunnen volgen en zal er geregeld gepost worden over on
 
 Veel leesplezier.
 
-<!-- <form name="contact" method="POST" data-netlify="true">
-  <p>
-    <label>Naam: <input type="text" name="name" /></label>   
-  </p>
-  <p>
-    <label>E-mail: <input type="email" name="email" /></label>
-  </p>
-  <p>
-    <label>Bericht: <textarea name="message"></textarea></label>
-  </p>
-  <p>
-    <button type="submit">Send</button>
-  </p>
-</form> -->
-
 
 [Mailto]: mailto:info@bckn.be

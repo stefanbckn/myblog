@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Regel 1 - Geef elke Euro een job
-date: 2020-11-28 13:51:01 +0100
+date: 2020-12-11 13:51:01 +0100
 tags: [budget,ynab]
 categories: [budget]
 ---

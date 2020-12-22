@@ -10,6 +10,7 @@ Op jaarbasis heb je een heleboel rekeningen die je overvallen;
 - onroerende voorheffing
 - School
 - Kerstmis,…
+<!--more-->
 
 Door deze grotere rekeningen op te splitsen per maand en mee in je budget op te nemen heb je het geld klaar staan wanneer de rekening “onverwachts” binnenvalt. Hierdoor neem je totale controle over je financiële situatie en kom je niet snel meer voor een verrassing te staan.
 

@@ -5,11 +5,12 @@ date: 2020-12-22 20:51:01 +0100
 tags: [budget,ynab]
 categories: [budget]
 ---
-Op jaarbasis heb je een heleboel rekeningen die je overvallen;
+Op jaarbasis heb je een heleboel rekeningen;
 - verzekeringspremies
 - onroerende voorheffing
 - School
 - Kerstmis,…
+Hoe ga jij daarmee om? Heb je deze uitgaven gepland of overvallen ze je telkens weer?
 <!--more-->
 
 Door deze grotere rekeningen op te splitsen per maand en mee in je budget op te nemen heb je het geld klaar staan wanneer de rekening “onverwachts” binnenvalt. Hierdoor neem je totale controle over je financiële situatie en kom je niet snel meer voor een verrassing te staan.

@@ -60,7 +60,9 @@ plainwhite:
         url: "https://photos.bckn.be"
       - title: About
         url: "/about"
-
+  condensed_mobile:
+    - Blog
+    - Budget
   social_links:
     twitter: stefanbckn
     github: stefanbckn

@@ -10,6 +10,7 @@ Op jaarbasis heb je een heleboel rekeningen;
 - onroerende voorheffing
 - School
 - Kerstmis,…
+
 Hoe ga jij daarmee om? Heb je deze uitgaven gepland of overvallen ze je telkens weer?
 <!--more-->
 

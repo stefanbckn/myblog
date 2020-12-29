@@ -7,7 +7,6 @@ categories: [budget]
 ---
 > Don’t be committed to the plan, be committed to the process. Financial planning is totally worthless without the ongoing process of planning, see change and adapt.  
 — [Carl Richards](https://behaviorgap.com/about/)
-
 <!-- more -->
 
 [Regel 1](https://www.bckn.be/budget/2020/12/11/regel-1-geef-elke-euro-een-job) en [regel 2](https://www.bckn.be/budget/2020/12/22/regel-2-omarm-je-ware-uitgaven) zorgen ervoor dat je jouw prioriteiten in YNAB krijgt, regel 3 zorgt voor het onverwachte.

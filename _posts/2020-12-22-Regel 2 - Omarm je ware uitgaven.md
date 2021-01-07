@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Regel 2 - Omarm je ware uitgaven
 date: 2020-12-22 20:51:01 +0100
 tags: [budget,ynab]

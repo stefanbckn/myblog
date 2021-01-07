@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Regel 4 - Laat je geld ouder worden
 date: 2021-01-04 13:51:01 +0100
 tags: [budget,ynab]

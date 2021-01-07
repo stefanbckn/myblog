@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Waarom een budget?
 date: 2020-11-28 13:51:01 +0100
 tags: [budget,ynab]

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Black Friday"
 date:   2020-11-25 18:30:36 +0100
 categories: budget

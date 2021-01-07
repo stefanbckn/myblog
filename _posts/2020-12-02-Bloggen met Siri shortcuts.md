@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Bloggen met Siri shortcuts"
 date:   2020-12-02 11:07:03 +0100
 categories: tech

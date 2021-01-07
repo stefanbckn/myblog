@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Regel 3 - Roll with the punches
 date: 2020-12-29 11:51:01 +0100
 tags: [budget,ynab]

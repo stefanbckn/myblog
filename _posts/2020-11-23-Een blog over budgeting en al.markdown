@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Een blog, over budgeting en al"
 date:   2020-11-23 22:00:36 +0100
 categories: budget

@@ -296,5 +296,3 @@ defaults:
       comments: # true
       share: true
       related: true
-      show_excerpts: true
-      excerpt_separator: <!--more-->

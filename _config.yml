@@ -31,8 +31,6 @@
 
 # Build settings
 theme: minimal-mistakes-jekyll
-plugins:
-  - jekyll-feed
 
 show_excerpts: true
 excerpt_separator: <!--more-->

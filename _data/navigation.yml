@@ -12,6 +12,8 @@ main:
     url: "/"
   - title: Budget
     url: "/budget"
+  - title: Persoonlijk
+    url: "/persoonlijk"
   - title: Tech
     url: "/tech"
   - title: Foto's

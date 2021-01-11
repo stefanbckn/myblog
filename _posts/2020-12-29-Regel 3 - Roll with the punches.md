@@ -9,7 +9,7 @@ categories: [budget]
 — [Carl Richards](https://behaviorgap.com/about/)
 
 <!--more-->
-[Regel 1](https://www.bckn.be/budget/2020/12/11/regel-1-geef-elke-euro-een-job) en [regel 2](https://www.bckn.be/budget/2020/12/22/regel-2-omarm-je-ware-uitgaven) zorgen ervoor dat je jouw prioriteiten in YNAB krijgt, regel 3 zorgt voor het onverwachte.
+[Regel 1][Regel 1] en [regel 2][Regel 2] zorgen ervoor dat je jouw prioriteiten in YNAB krijgt, regel 3 zorgt voor het onverwachte.
 
 Er komt een onverwachte uitgave binnen (bv. vrienden komen onverwacht langs waardoor je meer uitgeeft bij het winkelen), pas je budget dan aan. Kijk naar andere categorieën van waaruit je geld kan verplaatsen naar je Winkel categorie.
 
@@ -22,5 +22,8 @@ Aangezien je door nieuwe informatie de huidige/nieuwe situatie beter kan inschat
 3. Move on :-)
 
 #### Vorige posts
-* [Regel 1 - Geef elke Euro een job](https://www.bckn.be/budget/2020/12/11/regel-1-geef-elke-euro-een-job)
-* [Regel 2 - Omarm je ware uitgaven](https://www.bckn.be/budget/2020/12/22/regel-2-omarm-je-ware-uitgaven)
+* [Regel 1 - Geef elke Euro een job][Regel 1]
+* [Regel 2 - Omarm je ware uitgaven][Regel 2]
+
+[Regel 1]: {% post_url 2020-12-11-Regel 1-Geef elke euro een job %}
+[Regel 2]: {% post_url 2020-12-22-Regel 2 - Omarm je ware uitgaven %}

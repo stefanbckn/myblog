@@ -5,7 +5,7 @@ date: 2021-01-04 13:51:01 +0100
 tags: [budget,ynab]
 categories: [budget]
 ---
-[Regel 1](https://www.bckn.be/budget/2020/12/11/regel-1-geef-elke-euro-een-job) en [regel 2](https://www.bckn.be/budget/2020/12/22/regel-2-omarm-je-ware-uitgaven) zorgen ervoor dat je jouw prioriteiten in YNAB krijgt, [regel 3](https://www.bckn.be/budget/2020/12/29/regel-3-roll-with-the-punches) zorgt voor het onverwachte. Met regel 4 gaan we ervoor zorgen dat het geld dat we uitgeven een bepaalde leeftijd heeft.
+[Regel 1][Regel 1] en [regel 2][Regel 2] zorgen ervoor dat je jouw prioriteiten in YNAB krijgt, [regel 3][Regel 3] zorgt voor het onverwachte. Met regel 4 gaan we ervoor zorgen dat het geld dat we uitgeven een bepaalde leeftijd heeft.
 <!--more-->
 In YNAB noemen ze dit ook het doorbreken van de *“pay check to pay check cycle”*. Het ultieme doel is om een *”age of money”* van 30 dagen te bekomen zodat je de cirkel doorbreekt. 
 
@@ -21,6 +21,10 @@ Je wil dat jouw geld er zo lang mogelijk over doet om de graansilo te verlaten.
 3. Zie de leeftijd van je geld groeien
 
 #### Vorige posts
-* [Regel 1 - Geef elke Euro een job](https://www.bckn.be/budget/2020/12/11/regel-1-geef-elke-euro-een-job)
-* [Regel 2 - Omarm je ware uitgaven](https://www.bckn.be/budget/2020/12/22/regel-2-omarm-je-ware-uitgaven)
-* [Regel 3 - Roll with the punches](https://www.bckn.be/budget/2020/12/29/regel-3-roll-with-the-punches)
+* [Regel 1 - Geef elke Euro een job][Regel 1]
+* [Regel 2 - Omarm je ware uitgaven][Regel 2]
+* [Regel 3 - Roll with the punches][Regel 3]
+
+[Regel 1]: {% post_url 2020-12-11-Regel 1-Geef elke euro een job %}
+[Regel 2]: {% post_url 2020-12-22-Regel 2 - Omarm je ware uitgaven %}
+[Regel 3]: {% post_url 2020-12-29-Regel 3 - Roll with the punches %}

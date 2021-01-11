@@ -220,7 +220,7 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:year/:month/:day/:title/
+permalink: /:categories/:year/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -260,6 +260,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+year_archive:
+  type: liquid
+  path: /year/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:

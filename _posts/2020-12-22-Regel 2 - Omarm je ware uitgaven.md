@@ -28,4 +28,4 @@ Kort gezegd; Je maakt je geld saai en je zorgt ervoor dat grote kosten verdeeld 
 Regel 3 gaat over “rolling with the punches” en daarmee kan je onverwachte uitgaven toch in je budget ingeven. Meer daarover in de volgende blog uit deze serie.
 
 #### Vorige posts
-* [Regel 1 - Geef elke Euro een job](https://www.bckn.be/budget/2020/12/11/regel-1-geef-elke-euro-een-job)
+* [Regel 1 - Geef elke Euro een job]({% post_url 2020-12-11-Regel 1-Geef elke euro een job %})

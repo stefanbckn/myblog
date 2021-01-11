@@ -263,6 +263,7 @@ tag_archive:
 year_archive:
   type: liquid
   path: /year/
+  
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:

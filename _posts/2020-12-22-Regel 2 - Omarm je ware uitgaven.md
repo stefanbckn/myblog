@@ -17,10 +17,12 @@ Hoe ga jij daarmee om? Heb je deze uitgaven gepland of overvallen ze je telkens 
 Door deze grotere rekeningen op te splitsen per maand en mee in je budget op te nemen heb je het geld klaar staan wanneer de rekening “onverwachts” binnenvalt. Hierdoor neem je totale controle over je financiële situatie en kom je niet snel meer voor een verrassing te staan.
 
 ### Hoe doe je dit in YNAB?
+{% capture notice-hoe %}
 1. Vind jouw grote, onregelmatige rekeningen
 2. Maak een “goal” aan en budgeteer maandelijks het geld
 3. Wanneer de rekening uiteindelijk binnenvalt, betaal het gewoon 🤩
-
+{% endcapture %}
+<div class="notice--info">{{ notice-hoe | markdownify }}</div>
 Kom je toch nog voor verrassingen te staan dan voeg je deze toe zoals net beschreven en de volgende keer sta je sterker!
 
 Kort gezegd; Je maakt je geld saai en je zorgt ervoor dat grote kosten verdeeld worden over een langere periode zodat je niet voor verrassingen komt te staan.

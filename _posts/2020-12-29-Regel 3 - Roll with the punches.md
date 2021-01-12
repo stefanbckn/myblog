@@ -16,11 +16,12 @@ Er komt een onverwachte uitgave binnen (bv. vrienden komen onverwacht langs waar
 Aangezien je door nieuwe informatie de huidige/nieuwe situatie beter kan inschatten is het logisch om je budget hiervoor aan te passen.
 
 ### Hoe doe je dit in YNAB?
-
+{% capture notice-hoe %}
 1. Kies een categorie waar teveel is uitgegeven
 2. Verplaats geld van een andere categorie om het teveel aan uitgaven op te vangen
 3. Move on :-)
-
+{% endcapture %}
+<div class="notice--info">{{ notice-hoe | markdownify }}</div>
 #### Vorige posts
 * [Regel 1 - Geef elke Euro een job][Regel 1]
 * [Regel 2 - Omarm je ware uitgaven][Regel 2]

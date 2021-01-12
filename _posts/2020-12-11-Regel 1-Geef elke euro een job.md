@@ -16,8 +16,11 @@ Je kijkt naar de toekomst, naar wat er voor je ligt waardoor je de mogelijkheid 
 Eens je jouw prioriteiten hebt vastgelegd kan je geld dat binnenkomt gaan categoriseren. Daarna kan je vol vertrouwen je geld spenderen.
 
 ### Hoe werkt het?
+{% capture notice-hoe %}
 1. Verdien geld.
 2. Bepaal de prioriteit van elke Euro.
 3. Volg jouw plan.
+{% endcapture %}
+<div class="notice--info">{{ notice-hoe | markdownify }}</div>
 
 [YNAB]: https://ynab.com/referral/?ref=nK4-awM84GDPqxy7&utm_source=customer_referral

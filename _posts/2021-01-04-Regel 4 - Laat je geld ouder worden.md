@@ -15,11 +15,12 @@ De leeftijd van jouw geld kan je als volgt bekijken. Stel je voor dat al jouw ge
 Je wil dat jouw geld er zo lang mogelijk over doet om de graansilo te verlaten.
 
 ### Hoe doe je dit in YNAB?
-
+{% capture notice-hoe %}
 1. Wees doelgericht in je uitgaven
 2. Geef minder uit dan je verdient
 3. Zie de leeftijd van je geld groeien
-
+{% endcapture %}
+<div class="notice--info">{{ notice-hoe | markdownify }}</div>
 #### Vorige posts
 * [Regel 1 - Geef elke Euro een job][Regel 1]
 * [Regel 2 - Omarm je ware uitgaven][Regel 2]

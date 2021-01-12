@@ -41,7 +41,7 @@ minimal_mistakes_skin    : "default" #"default"  "air", "aqua", "contrast", "dar
 locale                   : "nl-BE"
 title                    : "BCKN!"
 title_separator          : "-"
-subtitle                 : "Ik, Budget!" # site tagline that appears below site title in masthead
+subtitle                 : "Ik, Budget en meer!" # site tagline that appears below site title in masthead
 name                     : "Stefan Bocken"
 description              : "Budgeting, Sports and more"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -88,7 +88,7 @@ google:
 # SEO Related
 google_site_verification :
 bing_site_verification   :
-yandex_site_verification :
+yandex_site_verification : "5cd77f969f81bc9e"
 naver_site_verification  :
 
 # Social Sharing
@@ -111,7 +111,7 @@ analytics:
   provider               : google # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     tracking_id          : UA-26012015-7
-    anonymize_ip         : # true, false (default)
+    anonymize_ip         : true # true, false (default)
 
 
 # Site Author
@@ -262,7 +262,7 @@ tag_archive:
   path: /tags/
 year_archive:
   type: liquid
-  path: /year/
+  path: /year-archive/
   
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:

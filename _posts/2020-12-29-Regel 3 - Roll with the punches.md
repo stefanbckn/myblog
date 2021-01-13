@@ -6,7 +6,7 @@ tags: [budget,ynab]
 categories: [budget]
 ---
 > Don’t be committed to the plan, be committed to the process. Financial planning is totally worthless without the ongoing process of planning, see change and adapt.  
-— [Carl Richards](https://behaviorgap.com/about/)
+<cite>[Carl Richards](https://behaviorgap.com/about/)</cite>
 
 <!--more-->
 [Regel 1][Regel 1] en [regel 2][Regel 2] zorgen ervoor dat je jouw prioriteiten in YNAB krijgt, regel 3 zorgt voor het onverwachte.
@@ -19,7 +19,7 @@ Aangezien je door nieuwe informatie de huidige/nieuwe situatie beter kan inschat
 {% capture notice-hoe %}
 1. Kies een categorie waar teveel is uitgegeven
 2. Verplaats geld van een andere categorie om het teveel aan uitgaven op te vangen
-3. Move on :-)
+3. Move on 🙂
 {% endcapture %}
 <div class="notice--info">{{ notice-hoe | markdownify }}</div>
 #### Vorige posts

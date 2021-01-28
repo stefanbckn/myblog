@@ -2,7 +2,7 @@
 layout: single
 title: Budget Template
 date: 2021-01-28 11:51:01 +0100
-tags: [budget,ynab, budget tempalte, goals]
+tags: [budget,ynab, budget template, goals]
 categories: [budget]
 excerpt: "Een budget template helpt je bij het beheren van je budget. Door te prioriteren heb je een eerste stap gezet in het maken van een budget template."
 toc: true

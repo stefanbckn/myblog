@@ -52,8 +52,12 @@ layout: default
         {% include page__date.html %}
       </footer>
 
+      {% if jekyll.environment == 'production' %}
+        <ins class="adsbycontextcue" data-cc-site="6dd1203f-9145-4702-8291-d0e4c3a7af4a" data-cc-slot="3YXkGFVS3" style="width:300px;height:250px;"></ins>
+      {% endif %}
+
       {% if page.share %}{% include social-share.html %}{% endif %}
- 
+      
       {% include post_pagination.html %}
     </div>
 

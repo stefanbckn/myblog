@@ -17,7 +17,7 @@ YNAB heeft zelf volgende video en [blogpost](https://www.youneedabudget.com/how-
 
 {% include video id="BjcYySRKc1A" provider="youtube" %}
 
-### 1. Geef elke categorie een doel.
+### 1. Geef elke categorie een doel
 
 Je hebt al je prioriteiten op een rij. Je kent je maandelijkse kosten. Je hebt je ware uitgaven bekeken. Al die categorieën kan je nu voorzien van een doel.
 Je begint het beste met je maandelijkse doelen. Wij moeten bijvoorbeeld elke maand onze lening betalen. Dus maandelijks zorgen we ervoor dat het juiste bedrag hiervoor klaar staat. Hiervoor hebben we een *Needed for Spending* doel aangemaakt dat elke maand verwacht dat er een bepaald bedrag klaar staat om uit te geven. Je kan ervoor kiezen om een specifieke datum te kiezen.

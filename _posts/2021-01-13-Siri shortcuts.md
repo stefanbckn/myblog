@@ -2,7 +2,7 @@
 layout: single
 title: Siri shortcuts & YNAB
 date: 2021-01-13 13:51:01 +0100
-tags: [budget,ynab, tech, iphone, shortcuts, siri, siri shortcuts]
+tags: [budget,ynab, tips & tricks, tech, iphone, shortcuts, siri, siri shortcuts]
 categories: [budget, tech]
 excerpt: "Hoe vereenvoudig ik het ingeven van transacties in YNAB via Siri shortcuts?"
 gallery:

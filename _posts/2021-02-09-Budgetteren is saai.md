@@ -18,7 +18,7 @@ Na het budgetteren voor al je rekeningen en toekomstige uitgaven (*true expenses
 Op de *Wish List* plaats je al de zaken waarvoor je geld op zij wil zetten. Een item op deze lijst moet onderzocht zijn naar prijs en ingedeeld worden in S, M of L (small, medium & large). Je zal merken dat de *Wish List* snel redelijk groot kan worden. Hoe kies je nu welke categorie je eerst gaat budgetteren? Prioritering!
 
 {% capture notice-waarschuwing %}
-**Opmerking**
+**Opmerking:**<br />
 In de *Wish List* zie je geen gebudgetteerd geld en er worden geen YNAB doelen aangemaakt. De *Wish List* is in weze de *home of unfunded ideas*. Al je ideeën zonder dat het een rechtstreekse invloed heeft op je budget. Een backlog als het ware.
 {% endcapture %}
 <div class="notice--warning">{{ notice-waarschuwing | markdownify }}</div>
@@ -29,12 +29,13 @@ De *Wish Farm* zorgt ervoor dat je foliekes gebudgetteerd geraken. Je kan  maar 
 {% include figure image_path="/assets/images/wishfarm/wishfarm.png" alt="De Wish List en Wish Farm in je budget." caption="De Wish List en Wish Farm in je budget." %}
 
 ##### Hoe werkt het?
-1. Kies je wensen
+1. Kies je wensen<br />
 Zoals eerder verteld,1 wens per grootte. Een wens met onderzocht zijn en een YNAB doel hebben. Welke items je kiest om te budgetteren is volledig aan jou.
 
-2. Spaar voor je doel 💰
+2. Spaar voor je doel 💰<br />
 Zet elke maand de nodige fondsen op zij voor je wensen.
 
-3. Guilt Free Spending 💸
+3. Guilt Free Spending 💸<br />
 Eens je het doel bereikt hebt kan je zonder verpinken je wens in vervulling laten gaan.
-Als je de uitgave in YNAB ingeeft, kies dan de categorie in je “normale” budget. Bijvoorbeeld: wij sparen momenteel voor zonnepanelen en eens we de uitgave ingeven in YNAB zal dit eerder in de categorie **Onderhoud Huis** zijn. Hierdoor kunnen we de zonnepanelen categorie verwijderen en houden we toch de uitgaven bij voor de rapportage.
+Als je de uitgave in YNAB ingeeft, kies dan de categorie in je “normale” budget.<br />
+Bijvoorbeeld: wij sparen momenteel voor zonnepanelen en eens we de uitgave ingeven in YNAB zal dit eerder in de categorie **Onderhoud Huis** zijn. Hierdoor kunnen we de zonnepanelen categorie verwijderen en houden we toch de uitgaven bij voor de rapportage.

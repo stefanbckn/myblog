@@ -17,6 +17,7 @@ en: &DEFAULT_EN
   toc_label                  : "On this page"
   ext_link_label             : "Direct link"
   less_than                  : "less than"
+  minuut_read                : "minute read"
   minute_read                : "minute read"
   share_on_label             : "Share on"
   meta_label                 :
@@ -76,7 +77,8 @@ nl: &DEFAULT_NL
   toc_label                  : "Op deze pagina"
   ext_link_label             : "Directe Link"
   less_than                  : "minder dan"
-  minute_read                : "minuut gelezen"
+  minuut_read                : "minuut te lezen"
+  minute_read                : "minuten te lezen"
   share_on_label             : "Deel op"
   meta_label                 :
   tags_label                 : "Labels:"

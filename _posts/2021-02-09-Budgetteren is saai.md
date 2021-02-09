@@ -35,7 +35,7 @@ Zoals eerder verteld,1 wens per grootte. Een wens met onderzocht zijn en een YNA
 2. Spaar voor je doel 💰<br />
 Zet elke maand de nodige fondsen op zij voor je wensen.
 
-3. Guilt Free Spending 💸<br />
+3. Guilt-Free Spending 💸<br />
 Eens je het doel bereikt hebt kan je zonder verpinken je wens in vervulling laten gaan.
 Als je de uitgave in YNAB ingeeft, kies dan de categorie in je “normale” budget.<br />
 Bijvoorbeeld: wij sparen momenteel voor zonnepanelen en eens we de uitgave ingeven in YNAB zal dit eerder in de categorie **Onderhoud Huis** zijn. Hierdoor kunnen we de zonnepanelen categorie verwijderen en houden we toch de uitgaven bij voor de rapportage.

@@ -38,8 +38,6 @@ gallery:
 ---
 Een oefenmatch. Vrije verkoop van tickets. Ideaal om Emiel een keertje mee te nemen naar den Antwerp. Een heel gedoe om tickets te kopen, een overdrukke webshop, accounts aanmaken met de GSM-nr van de bomma, foto’s nemen van een Kids-ID. Er lagen wel wat hordes op de weg naar de tickets maar uiteindelijk kon de spanning voor de wedstrijd opgebouwd worden.
 
-<a data-flickr-embed="true" href="" title="Untitled"><img src="" width="600" height="800" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 Eindelijk was het zaterdag, en die kon niet snel genoeg verlopen! Zowel voor Emiel als voor de papa ☺️.
 ‘S Ochtends zijn we eerst, zoals vele anderen van de [#OneRedFamily](https://twitter.com/search?q=%23OneRedFamily&src=typed_query), ons steentje gaan bijdragen aan de hulp voor de slachtoffers van de watersnood.
 

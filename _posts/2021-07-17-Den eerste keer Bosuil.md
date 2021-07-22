@@ -36,7 +36,7 @@ gallery:
     alt: "Zicht op tribune 4"
     title: "Zicht op tribune 4"
 ---
-Een oefenmatch. Vrije verkoop van tickets. Ideaal om Emiel een keertje mee te nemen naar den Antwerp. Een heel gedoe om tickets te kopen, een overdrukke webshop, accounts aanmaken met de GSM-nr van de bomma, foto’s nemen van een Kids-ID. Er lagen wel wat hordes op de weg naar de tickets maar uiteindelijk kon de spanning voor de wedstrijd opgebouwd worden.
+Een oefenmatch. Vrije verkoop van tickets. Ideaal om Emiel een keertje mee te nemen naar den Antwerp. Een heel gedoe om tickets te kopen, een overdrukke webshop, accounts aanmaken met de GSM-nr van de bomma, foto’s nemen van een Kids-ID. Er lagen wel wat hordes op de weg naar de tickets maar uiteindelijk kon de spanning voor de wedstrijd opgebouwd worden. Gelukkig had Kristl tijd (alhoewel) en veel geduld!
 
 Eindelijk was het zaterdag, en die kon niet snel genoeg verlopen! Zowel voor Emiel als voor de papa ☺️.
 ‘S Ochtends zijn we eerst, zoals vele anderen van de [#OneRedFamily](https://twitter.com/search?q=%23OneRedFamily&src=typed_query), ons steentje gaan bijdragen aan de hulp voor de slachtoffers van de watersnood.

@@ -61,5 +61,7 @@ Aan de finish stonden Kristl en Emiel me op te wachten met een leuke verrassing.
 
 Mijn eindtijd: <b>4u 51 minuten en 32 seconden</b> <br />
 Geen PR, wel blij met mijn 2de finish op rij.<br />
+<br />
+Next up: <a href="https://www.nnmarathonrotterdam.nl">De Mooiste</a>.
 
 <p style="font-size: 10px;">Photo credits <a href="https://www.sportograf.com">Sportograf.com</a></p>

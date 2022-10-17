@@ -2,7 +2,7 @@
 layout: single
 title: Wij lezen twee verhaaltjes
 date: 2021-03-15 17:21:01 +0100
-tags: [lezen,verhaaltjes,poëzie,emiel]
+tags: [lezen,verhaaltjes,poëzie,Emiel]
 categories: [persoonlijk]
 header:
   overlay_image: /assets/images/tweeverhaaltjes/13116000.jpg

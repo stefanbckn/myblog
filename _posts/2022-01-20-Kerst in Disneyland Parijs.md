@@ -2,7 +2,7 @@
 layout: single
 title: Kerst in Disneyland Parijs
 date: 2022-01-20 10:11:01 +0100
-tags: [vakantie,emiel]
+tags: [vakantie,Emiel]
 categories: [persoonlijk]
 header:
   overlay_image: /assets/images/kerstindisneylandparijs/Disney-wij-Eeyore.jpg

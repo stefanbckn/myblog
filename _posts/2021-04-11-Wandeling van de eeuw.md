@@ -2,7 +2,7 @@
 layout: single
 title: Wandeling van de eeuw
 date: 2021-04-11 16:11:01 +0100
-tags: [wandelen,K. Boechoutse V.V.,voetbal,emiel]
+tags: [wandelen,K. Boechoutse V.V.,voetbal,Emiel]
 categories: [persoonlijk]
 header:
   overlay_image: /assets/images/wandelingvdeeuw/IMG_3756.jpeg

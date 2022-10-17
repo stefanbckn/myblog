@@ -2,7 +2,7 @@
 layout: single
 title: Den eerste keer Bosuil!
 date: 2021-07-17 21:11:01 +0100
-tags: [RAFC,voetbal,emiel]
+tags: [RAFC,voetbal,Emiel]
 categories: [persoonlijk]
 header:
   overlay_image: /assets/images/zichtbosuil.jpg

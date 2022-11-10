@@ -11,16 +11,13 @@ header:
   caption: "Photo credit: [**Stefan Bocken**](https://bckn.be)"
 excerpt: "Op wandeling in het Viersels gebroekt tot een overstroming ons tegenhield."
 gallery:
-  - url: https://www.flickr.com/photos/191188834@N08/50893858088/in/album-72157718112284862/
-    image_path: https://live.staticflickr.com/65535/50893858088_a1304b0b10_c.jpg
+  - image_path: https://dub01pap001files.storage.live.com/y4ma5DhPkMdJEx_d6iCYTi5-PKSYlo_SmQYDhoONswDq5ZCmFaUaEHhGB7_liGMLY5tSNORS9ORTmzX0_4lLia_zR4GvBdLnLOY-gctyZTzkfLeIaNBamEjHVW7htVUA9WUpmyW8U8BmEDn9quPyTQpjb4v5YWJZlGDeMVP2iuIlWyBLid3tpALzJ1jqDOwX3Qq?width=192&height=256&cropmode=none
     alt: "Het wandelpad was overstroomd"
     title: "Het wandelpad was overstroomd"
-  - url: https://www.flickr.com/photos/191188834@N08/50894691892/in/album-72157718112284862/
-    image_path: https://live.staticflickr.com/65535/50894691892_b96e16d881_c.jpg
+  - image_path: https://dub01pap001files.storage.live.com/y4mEootpmHL7GRAwpv6--pqcmP5ESXodjje94UIV-6OjFoEOJuK8deoYMQqe5x4zJgV5DJV-2GJVWR8vPc3LM40J1ufUSnSkpp66rLdJk6_LgXeoovUaE2BPuZHTBVbfC0JWi_AfnEavOFrfGRpNWA6QsKPL6EMp6uBArLDUd72CGvTCKk2c8u0yJgzZbQwFpEk?width=660&height=495&cropmode=none
     alt: "Ook de terugweg was geen optie"
     title: "Ook de terugweg was geen optie"
-  - url: https://www.flickr.com/photos/191188834@N08/50894742852/in/album-72157718112284862/
-    image_path: https://live.staticflickr.com/65535/50894742852_90fa49a09d_c.jpg
+  - image_path: https://dub01pap001files.storage.live.com/y4mV93E4EWfQ6jEQIv17kEV_5CTas6mnTeHQz3J21FNvaX9rmShtrKd8ttCXLA4s7eY3n28QiifzVcUd3cK5pdhYqh97tuGRke23HT9WYmEH3LY8aXW90oi0v8lrZz80pZYpdw2CVVQqAP1sVvEbdcgHPe92KBm1mbWOXJZhsi9z5DeRoatE38A9uwiE17soMIq?width=256&height=192&cropmode=none
     alt: "Samen met mama"
     title: "Samen met mama"
 ---

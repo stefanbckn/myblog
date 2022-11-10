@@ -7,11 +7,11 @@ categories: [budget]
 excerpt: "Het memo veld, waarvoor gebruik jij het? In deze blogpost vind je een paar leuke voorbeelden over hoe je dit veld kan gebruiken."
 gallery_emo:
   - image_path: /assets/images/memos/happy.png
-    alt: "Het begrazingsgebied ontdekken"
-    title: "Het begrazingsgebied ontdekken"
+    alt: "Memo Hashtag"
+    title: "Memo Hashtag"
   - image_path: /assets/images/memos/sad.png
-    alt: "Het ging al wat trager"
-    title: "Het ging al wat trager"
+    alt: "Memo vreemde munten"
+    title: "Memo vreemde munten"
 ---
 Het memo veld, waarvoor gebruik jij het? Hieronder een paar mogelijkheden:
 

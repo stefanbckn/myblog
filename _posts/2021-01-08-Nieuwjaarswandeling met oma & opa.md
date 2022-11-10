@@ -11,16 +11,13 @@ header:
   caption: "Photo credit: [**Stefan Bocken**](https://bckn.be)"
 excerpt: "Samen met oma & opa op wandeling in de Kalmthoutse Heide."
 gallery:
-  - url: https://www.flickr.com/photos/191188834@N08/50804062877/in/album-72157717788950312/
-    image_path: https://live.staticflickr.com/65535/50804062877_16a52e28c0_c.jpg
+  - image_path: https://dub01pap001files.storage.live.com/y4mR-HhO0LSdOztxEG_Kp1wMu87MX9JACsKnHYJ7zKAM5p_2tTzyIWa3JKp7PVDM68BiZZjcAp4zVo87AG6ZESG7gmDc73ojdbsnYXH7kgZWy1WqRJ3o-MljluPomkSVYL1nXkXCGrugkyCaHJeVauLzImeIgTd8RXymEsPvsRLYn9PT8wmP9fPJqhtEaa2MpWQ?width=256&height=256&cropmode=none
     alt: "Het begrazingsgebied ontdekken"
     title: "Het begrazingsgebied ontdekken"
-  - url: https://www.flickr.com/photos/191188834@N08/50803204093/in/album-72157717788950312/
-    image_path: https://live.staticflickr.com/65535/50803204093_259a23d4a3_c.jpg
+  - image_path: https://dub01pap001files.storage.live.com/y4mtuQgX821ZW8YQh8kiyV3yaxJMV1Jj5B-TDqyrgYs-WDq9vKFfpDIID9D5OYi17BpZnCwsAuJN3jEwji_bO_e4DpmSgA2D4Ub4Imz8-ovD6GT7oNYxIwGP6yVUHSlCAmGC-gKYqKNOJkwUENrJFvPDOmfM1_3TsCeIkuUbTsqsxPezEpnmBCB2lurpDTlXE1M?width=256&height=256&cropmode=none
     alt: "Het ging al wat trager"
     title: "Het ging al wat trager"
-  - url: https://www.flickr.com/photos/191188834@N08/50804062887/in/album-72157717788950312/
-    image_path: https://live.staticflickr.com/65535/50804062887_e0293f06a6_c.jpg
+  - image_path: https://dub01pap001files.storage.live.com/y4mqElRKLyAiFkpX3ngPkK_DK9TpTjvQ9gvWg2_y6Rr6p7b-z5ji_E8pXGRaJ4x0sto5h9SUyYsBS_3uDTrE8HjMlCuJVwsRWBQ2b8WH7vUuBC0lGW6nNS-suvyg8GGR6Cn8YjkZ79n4O55m2uVaq0lW7Lmtl03fNi3vJReNsIx-cqmiGQEwROqD1ISbxvjMe5T?width=256&height=256&cropmode=none
     alt: "Samen met opa"
     title: "Samen met opa"
 ---
